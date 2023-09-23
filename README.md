@@ -9,13 +9,15 @@ Highly skilled and creative Data Scientist with a passion for developing success
 <br>**Tools and Software:** Excel, Power BI, Tableau, Qlik View, MySQL
 
 ## Organizational Experience
-**Associate Engineer, Ericsson Global, Delhi, India**                                                                                               **Apr 2022 – Aug 2022**
+**Associate Engineer, Ericsson Global, Delhi, India**                                                                                               
+**Apr 2022 – Aug 2022**
 <em>Test coordinator – MELA United Kingdom department</em>
 - Developed and executed 100+ test cases for incident management, change management, Problem management, and Knowledge error, which helped to ensure the quality and reliability of the BMC Remedy tool.
 - Identified and reported a critical bug in the BMC Remedy tool, which the 3UK, EE, and MBNL developers fixed within 24 hours.
 - Coordinated the testing of a new BMC Remedy tool release, which resulted in a 99% defect-free release.
 
-**Associate Engineer Trainee Ericsson Global, Delhi, India**                                                                                **Oct 2021 – Apr 2022**
+**Associate Engineer Trainee Ericsson Global, Delhi, India**                                                                                
+**Oct 2021 – Apr 2022**
 <em>Engineer  - BMAS, TELUS, ITSM (Information Technology Service Management) department</em>
 - Completed around 325 TSR (Telus service request).
 - Performed a variety of TSR activities, including adding, removing, or modifying users, roles, or permissions.
@@ -24,7 +26,8 @@ Highly skilled and creative Data Scientist with a passion for developing success
 - Provided maintenance and day-to-day support for BMC Remedy ITSM Tool and wireline remedy tool under Telus Organisation Canada.
 - Resolved 35 incident tickets and closed 9 change management tickets.
 
-**Intern Ericsson Global, Delhi, India**                                                                                                                             Jul 2021 – Oct 2021
+**Intern Ericsson Global, Delhi, India**                                                                                                                             
+**Jul 2021 – Oct 2021**
 <em>Intern  - BMAS TELUS, ITSM (Information Technology Service Management) department</em>
 - Completed two certification courses in ITM learning:
 - Red Hat Certified System Administrator: Scripting and Scheduling
@@ -34,15 +37,17 @@ Highly skilled and creative Data Scientist with a passion for developing success
 - Numpy, Scipy module in python
 - Data Manipulations using pandas module
 
-**Intern, German Presentation & Communication Systems, Abu Dhabi, UAE**                                            Dec 2020 – Jan 2021
+**Intern, German Presentation & Communication Systems, Abu Dhabi, UAE**                                            
+**Dec 2020 – Jan 2021**
 - IP Camera Installation & Configuration: Proficiently installed and configured IP cameras, strictly adhering to authority regulations, ensuring robust surveillance systems.
 - Site Survey & CAD Expertise: Conducted meticulous site surveys, employing Automatic Computer Aided Design (CAD) tools to optimize camera placement and coverage
 
 
-**Catering Assistant (Part-time), Westward Care Ltd – Care Home, Leeds, United Kingdom**                                                 **Mar 2023 – Present**
+**Catering Assistant (Part-time), Westward Care Ltd – Care Home, Leeds, United Kingdom**                                                 
+**Mar 2023 – Present**
 - Food Preparation: Assisted in the preparation of meals, adhering to dietary requirements and portion control, while maintaining high standards of hygiene and food safety.
 - Serving and Plating: Helped in serving meals to residents, ensuring prompt and courteous service, and arranging food in an appetizing manner for an enjoyable dining experience.
-**Assisting Residents: Provided compassionate assistance to residents during meal times, catering to their specific needs and preferences, and ensuring their comfort and satisfaction.
+- Assisting Residents: Provided compassionate assistance to residents during meal times, catering to their specific needs and preferences, and ensuring their comfort and satisfaction.
 
 
 ## Specilization
@@ -98,6 +103,31 @@ Highly skilled and creative Data Scientist with a passion for developing success
 -	Implemented robust data storage solutions, safeguarding sensitive information and enhancing data security measures, resulting in increased data integrity and confidentiality.
 -	Successfully established data processing pipelines that streamlined data workflows, reducing processing time and improving overall data processing efficiency.
 
+## Projects
+**Title**: E-commerce Sales and Customer Analytics
+**Roles & Responsibilities**: E-commerce, Sales Transactions, Customer Profiles, Product Details, Data Visualisation
+**Tools & Concepts**: SQL, Data Cleaning, Data Visualisation, Database Design, Data Transformation, Data Aggregation
+**Team Size**: Individual
+ **Description**:		
+- Implement data cleaning techniques, create an efficient database schema, perform data transformation, and utilize SQL queries for data aggregation. 
+- Connect the database to data visualisation tools for generating interactive reports.
+- The project aims to provide valuable insights into sales trends, customer behavior, and product performance through data analysis and visualisations, enabling data-driven decision-making for the e-commerce platform.
+
+**Title**: Exploring Predictive Models on effective sentencing on Serial Killer
+**Roles & Responsibilities**: Data Understanding, Data Preprocessing, Feature extraction, Model development
+**Tools & Concepts**: Python, Pandas, Matplotlib, Generalized linear Models, Supervised Learning Models, SQL.
+**Team Size**: Individual
+**Description**:	
+ - Role and Contributions: As a data engineer with a strong software engineering background, I handled Data Understanding, Data Preprocessing, Feature Extraction, and Model Development using Python, Pandas, and Matplotlib.
+- Model Evaluation: I employed Logistic Regression and Decision Tree algorithms and evaluated their accuracy using F1-Score, Specificity, Sensitivity, and ROC-curve metrics, adhering to modern DevOps principles.
+
+**Title**: Predicting the Successful Initial coin offering using Machine learning models
+**Roles & Responsibilities**: Data Cleaning, Data Preparation, Model Building, Evaluation, Project Documentation
+**Tools & Concepts**: RStudios, Python, Machine Learning, Pandas, Numpy, SQL
+**Team Size**: Individual
+ **Description**:
+- Implemented data cleaning techniques to ensure data quality and prepared the dataset for analysis, feature engineering, and model training. 
+- Developed and evaluated machine learning models, including Random Forest, to predict the success of ICOs, leveraging R packages such as randomForest for model development and evaluation.
 
   
 
