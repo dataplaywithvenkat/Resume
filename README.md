@@ -1,5 +1,3 @@
-# Data Scientist
-
 ## Objective
 Highly skilled and creative Data Scientist with a passion for developing successful data solutions. Proficient in SQL, Python, and R, and experienced in driving data initiatives, generating data sets, and developing scalable ML models. Proven track record in solving business problems through data-driven decision-making and deploying machine learning techniques. Detail-oriented problem solver, adept at analyzing large datasets and communicating complex methodologies to technical and non-technical stakeholders.
 
