@@ -11,14 +11,14 @@ Highly skilled and creative Data Scientist with a passion for developing success
 ## Organizational Experience
 **Associate Engineer, Ericsson Global, Delhi, India**                                                                                               
 **Apr 2022 – Aug 2022**
-<em>Test coordinator – MELA United Kingdom department</em>
+<br><em>Test coordinator – MELA United Kingdom department</em>
 - Developed and executed 100+ test cases for incident management, change management, Problem management, and Knowledge error, which helped to ensure the quality and reliability of the BMC Remedy tool.
 - Identified and reported a critical bug in the BMC Remedy tool, which the 3UK, EE, and MBNL developers fixed within 24 hours.
 - Coordinated the testing of a new BMC Remedy tool release, which resulted in a 99% defect-free release.
 
 **Associate Engineer Trainee Ericsson Global, Delhi, India**                                                                                
 **Oct 2021 – Apr 2022**
-<em>Engineer  - BMAS, TELUS, ITSM (Information Technology Service Management) department</em>
+<br><em>Engineer  - BMAS, TELUS, ITSM (Information Technology Service Management) department</em>
 - Completed around 325 TSR (Telus service request).
 - Performed a variety of TSR activities, including adding, removing, or modifying users, roles, or permissions.
 - Performed testing of upgraded ITSM software after upgrading to the 20.0 version for three different environments.
@@ -28,7 +28,7 @@ Highly skilled and creative Data Scientist with a passion for developing success
 
 **Intern Ericsson Global, Delhi, India**                                                                                                                             
 **Jul 2021 – Oct 2021**
-<em>Intern  - BMAS TELUS, ITSM (Information Technology Service Management) department</em>
+<br><em>Intern  - BMAS TELUS, ITSM (Information Technology Service Management) department</em>
 - Completed two certification courses in ITM learning:
 - Red Hat Certified System Administrator: Scripting and Scheduling
 - BMAS - Machine Learning - Fundamental level Assessment
@@ -105,31 +105,38 @@ Highly skilled and creative Data Scientist with a passion for developing success
 
 ## Projects
 **Title**: E-commerce Sales and Customer Analytics
-**Roles & Responsibilities**: E-commerce, Sales Transactions, Customer Profiles, Product Details, Data Visualisation
-**Tools & Concepts**: SQL, Data Cleaning, Data Visualisation, Database Design, Data Transformation, Data Aggregation
-**Team Size**: Individual
- **Description**:		
+<br>**Tools & Concepts**: SQL, Data Cleaning, Data Visualisation, Database Design, Data Transformation, Data Aggregation
+<br>**Team Size**: Individual
+ <br>**Description**:		
 - Implement data cleaning techniques, create an efficient database schema, perform data transformation, and utilize SQL queries for data aggregation. 
 - Connect the database to data visualisation tools for generating interactive reports.
 - The project aims to provide valuable insights into sales trends, customer behavior, and product performance through data analysis and visualisations, enabling data-driven decision-making for the e-commerce platform.
 
 **Title**: Exploring Predictive Models on effective sentencing on Serial Killer
-**Roles & Responsibilities**: Data Understanding, Data Preprocessing, Feature extraction, Model development
-**Tools & Concepts**: Python, Pandas, Matplotlib, Generalized linear Models, Supervised Learning Models, SQL.
-**Team Size**: Individual
-**Description**:	
+<br>**Roles & Responsibilities**: Data Understanding, Data Preprocessing, Feature extraction, Model development
+<br>**Tools & Concepts**: Python, Pandas, Matplotlib, Generalized linear Models, Supervised Learning Models, SQL.
+<br>**Team Size**: Individual
+<br>**Description**:	
  - Role and Contributions: As a data engineer with a strong software engineering background, I handled Data Understanding, Data Preprocessing, Feature Extraction, and Model Development using Python, Pandas, and Matplotlib.
 - Model Evaluation: I employed Logistic Regression and Decision Tree algorithms and evaluated their accuracy using F1-Score, Specificity, Sensitivity, and ROC-curve metrics, adhering to modern DevOps principles.
 
 **Title**: Predicting the Successful Initial coin offering using Machine learning models
-**Roles & Responsibilities**: Data Cleaning, Data Preparation, Model Building, Evaluation, Project Documentation
-**Tools & Concepts**: RStudios, Python, Machine Learning, Pandas, Numpy, SQL
-**Team Size**: Individual
- **Description**:
+<br>**Roles & Responsibilities**: Data Cleaning, Data Preparation, Model Building, Evaluation, Project Documentation
+<br>**Tools & Concepts**: RStudios, Python, Machine Learning, Pandas, Numpy, SQL
+<br>**Team Size**: Individual
+<br>**Description**:
 - Implemented data cleaning techniques to ensure data quality and prepared the dataset for analysis, feature engineering, and model training. 
 - Developed and evaluated machine learning models, including Random Forest, to predict the success of ICOs, leveraging R packages such as randomForest for model development and evaluation.
 
-  
+**Title**: Maximizing Mushroom Edibility Prediction through Comparative Model Selection
+<br>**Roles & Responsibilities**: Data Cleaning, Feature extraction, Model Building, Statistical Analysis
+<br>**Tools & Concepts**: R Markdown, Logistic Regression, Decision tree, Gini Impurity, GLM function
+<br>**Team Size**: Individual
+<br>**Description**:	
+- This project compares Logistic Regression, Decision Trees, and Random Forests for predicting mushroom edibility.
+- The focus is on maximizing predictive performance through method tuning and model selection using cross-validation.
+- Results are presented in a convincing manner, akin to a scientific publication, with statistical tests to determine significant performance differences among methods. Evaluation criteria include correctly classified mushrooms.
+
 
 
 
